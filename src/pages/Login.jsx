@@ -3,7 +3,6 @@
 function Login() {
   return (
     <div>
-      FUCK THIS SHIT
     </div>
   )
 }
